@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 17, 2018
 
 ### Student Name:  
-(First and Last Name)
+Aaron Csetter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+A Tax Calculation created to demonstrate my understanding of Lesson 5.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://acsetter.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. Utilizing javascript to create if else code.
+2. Utilizing javascript to add functions to websites.
+3. Calling to functions in HTML.
